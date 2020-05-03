@@ -8,4 +8,4 @@ cmake ..
 make
 ./quizRansac
 #### result
-![the_plane_after_detecting](https://i.ibb.co/GHzxwmj/Untitled.png)
+![the_plane_after_detecting](https://i.ibb.co/Jx5dD98/Untitled.png)
